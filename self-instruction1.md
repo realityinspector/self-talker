@@ -1,0 +1,1 @@
+Puedes simplemente añadir la traducción de "Hello" que es "Hola" en español. De esta manera, tendrás ambas traducciones en tu diccionario. Déjame saber si hay algo más en lo que
